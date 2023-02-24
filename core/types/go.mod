@@ -15,6 +15,6 @@ require (
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/smartystreets/assertions v0.0.0-20190401211740-f487f9de1cd3
 	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a // indirect
-	golang.org/x/net v0.0.0-20190514140710-3ec191127204 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/grpc v1.20.1 // indirect
 )
