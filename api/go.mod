@@ -15,6 +15,6 @@ require (
 	github.com/shirou/gopsutil v2.18.12+incompatible
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/smartystreets/assertions v0.0.0-20190401211740-f487f9de1cd3
-	golang.org/x/net v0.0.0-20190514140710-3ec191127204
+	golang.org/x/net v0.7.0
 	google.golang.org/grpc v1.20.1
 )
